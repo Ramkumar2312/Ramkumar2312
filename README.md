@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ramkumar2312
-- 👀 I’m interested in Python, Flask and Web Development.
-- 🌱 I’m currently learning Python and Flask.
+- 👋 Hi, I’m Ramkumar
+- 👀 I’m interested in Python, Web Development and AI/ML.
+- 🌱 I’m currently learning Python in depth and planing to start with AI/ML.
 - 💞️ I’m looking to collaborate on any Python Projects.
 - 📫 How to reach me : DM or Mail me @ ramkumars.2323@gmail.com.
 
